@@ -4,9 +4,13 @@ This project implements a Recurrent Neural Network (RNN) using TensorFlow and Ke
 
 # Features
 **Data Fetching**: Utilizes *yfinance* to download historical stock data.
+
 **Data Preprocessing**: Employs MinMaxScaler for scaling the stock prices to a normalized range, which is crucial for the performance of neural networks.
+
 **Model Building**: Constructs an LSTM-based model to predict stock prices. The model includes dense layers and LSTM layers optimized for sequence prediction.
+
 **Visualization**: Provides visualizations for training results and predictions using *matplotlib*, helping users evaluate the model's performance.
+
 #Installation
 To run this project, ensure you have Python installed, then set up a virtual environment and install the required packages:
 
@@ -14,6 +18,7 @@ To run this project, ensure you have Python installed, then set up a virtual env
 
 # Usage
 **Open Notebook**: Load the stock_prediction_rnn.ipynb notebook in Jupyter or Google Colab.
+
 **Run All Cells**: Execute the cells sequentially to fetch data, train the model, and view the results.
 
 # Contributions
