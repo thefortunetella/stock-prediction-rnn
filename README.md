@@ -9,4 +9,4 @@ Model Building: Constructs an LSTM-based model to predict stock prices. The mode
 Visualization: Provides visualizations for training results and predictions using matplotlib, helping users evaluate the model's performance.
 Installation
 To run this project, ensure you have Python installed, then set up a virtual environment and install the required packages:
-`pip install -r requirements.txt´
+`pip install -r requirements.txt`
