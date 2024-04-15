@@ -11,7 +11,7 @@ This project implements a Recurrent Neural Network (RNN) using TensorFlow and Ke
 
 **Visualization**: Provides visualizations for training results and predictions using *matplotlib*, helping users evaluate the model's performance.
 
-#Installation
+# Installation
 To run this project, ensure you have Python installed, then set up a virtual environment and install the required packages:
 
 `pip install -r requirements.txt`
