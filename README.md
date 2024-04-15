@@ -1,6 +1,6 @@
 # stock-prediction-rnn
 # Overview
-This project implements a Recurrent Neural Network (RNN) using TensorFlow and Keras to predict stock prices. It demonstrates the use of LSTM (Long Short-Term Memory) networks to model sequential data for forecasting the future values of stock prices. The model is trained on historical stock price data fetched via the Yahoo Finance API. For demonstration purposes, the stock chosen as an example was NVIDIA (NVDA), tracked from 2016 to early 2024.
+This project implements a Recurrent Neural Network (RNN) using TensorFlow and Keras to predict close stock prices. It demonstrates the use of LSTM (Long Short-Term Memory) networks to model sequential data for forecasting the future values of stock prices. The model is trained on historical stock price data fetched via the Yahoo Finance API. For demonstration purposes, the stock chosen as an example was NVIDIA (NVDA), tracked from 2016 to early 2024.
 
 # Features
 **Data Fetching**: Utilizes *yfinance* to download historical stock data.
